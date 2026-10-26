@@ -1,6 +1,7 @@
 # The manifest for docker-unrar. Schema: https://github.com/linuxserver-playground/builder/blob/main/schemas/image.schema.json
 schema: 1
 name: unrar
+kind: tool
 
 summary: unrar container image.
 
